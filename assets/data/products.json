@@ -1,1 +1,808 @@
+{
+  "categories": [
+    { "slug": "laptops", "title": "Laptops", "tagline": "Business-grade portable power.", "icon": "💻" },
+    { "slug": "desktops", "title": "Desktops", "tagline": "Workstations built for serious workloads.", "icon": "🖥" },
+    { "slug": "smart-gadgets", "title": "Smart Gadgets", "tagline": "Everyday tech that just works.", "icon": "✨" },
+    { "slug": "accessories", "title": "Accessories", "tagline": "The details that upgrade your setup.", "icon": "🎧" },
+    { "slug": "components", "title": "Components", "tagline": "Upgrade paths, sourced right.", "icon": "🧩" }
+  ],
+  "products": [
+    {
+      "id": "hp-elite-x2-1012-g2",
+      "category": "laptops",
+      "title": "HP Elite x2 1012 G2",
+      "subtitle": "7th Gen Core i5 · 16GB RAM · 512GB SSD · Touchscreen · Backlit",
+      "shortDesc": "Premium detachable 2-in-1 business laptop with Face ID and Full HD+ touchscreen.",
+      "brand": "HP",
+      "sku": "HP-ELITEX2-1012G2",
+      "condition": "Premium Pre-Owned",
+      "price": 349000,
+      "originalPrice": 485000,
+      "rating": 4.3,
+      "reviewCount": 47,
+      "badges": ["Best Seller", "2-in-1"],
+      "images": ["laptop-01.jpg", "laptop-02.jpg", "laptop-03.jpg", "laptop-04.jpg", "laptop-05.jpg", "laptop-06.jpg", "laptop-07.jpg", "laptop-08.jpg", "laptop-09.jpg", "laptop-10.jpg"],
+      "tagline": "Laptop Productivity. Tablet Freedom.",
+      "overview": [
+        "The HP Elite x2 1012 G2 combines the power of a business laptop with the convenience and portability of a tablet.",
+        "Designed for professionals who are constantly on the move, the detachable keyboard lets you switch effortlessly between laptop and tablet modes depending on your workflow.",
+        "Whether you're attending meetings, presenting to clients, working remotely, taking notes, or browsing the web, the Elite x2 adapts seamlessly to your needs.",
+        "Premium construction, touchscreen functionality and advanced security features make it an ideal companion for today's mobile workforce."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "12.3-inch", "label": "Display" },
+        { "icon": "⚙️", "value": "Intel Core i5", "label": "Processor" },
+        { "icon": "🧠", "value": "16GB", "label": "RAM" },
+        { "icon": "💾", "value": "512GB SSD", "label": "Storage" }
+      ],
+      "features": [
+        "7th Gen Intel Core i5-7300U Processor",
+        "16GB LPDDR3 RAM",
+        "512GB NVMe SSD",
+        "12.3-Inch Full HD+ IPS Touchscreen",
+        "Detachable 2-in-1 Design",
+        "Backlit Keyboard",
+        "Windows Hello Face ID",
+        "Intel HD Graphics 620",
+        "Premium Aluminum Chassis",
+        "Enterprise-Class Security"
+      ],
+      "sections": [
+        { "title": "Powerful 7th Gen Intel Processing", "body": "Powered by the Intel Core i5-7300U processor, the Elite x2 G2 delivers reliable performance for Microsoft Office Suite, business applications, professional multitasking, virtual meetings, online learning, web browsing, programming and everyday productivity." },
+        { "title": "16GB RAM. 512GB NVMe SSD.", "body": "Run multiple applications simultaneously while maintaining excellent responsiveness. Lightning-fast startup, smooth multitasking, quick app launches and fast file transfers." },
+        { "title": "Laptop or Tablet. You Decide.", "body": "The responsive touchscreen and detachable keyboard give you maximum flexibility. Perfect for digital note-taking, reading documents, business presentations and travel." }
+      ],
+      "displaySpecs": [
+        ["Display Size", "12.3-Inch"], ["Resolution", "1920 x 1280 Full HD+"], ["Display Type", "IPS Touchscreen"],
+        ["Touch", "10-Point Multi-Touch"], ["Aspect Ratio", "3:2"], ["Refresh Rate", "60Hz"], ["Anti-Glare", "Yes"]
+      ],
+      "connectivity": ["Thunderbolt 3 (USB-C)", "USB Type-C", "Wi-Fi", "Bluetooth", "Headphone / Mic Jack"],
+      "perfectFor": ["Executives", "Business Professionals", "Entrepreneurs", "Students", "Consultants", "Remote Workers", "Frequent Travelers"],
+      "specs": [
+        ["Model", "HP Elite x2 1012 G2"], ["Processor", "Intel Core i5-7300U"], ["Generation", "7th Generation"],
+        ["Processor Speed", "2.60GHz up to 3.50GHz"], ["Memory", "16GB LPDDR3 RAM"], ["Storage", "512GB NVMe SSD"],
+        ["Graphics", "Intel HD Graphics 620"], ["Display", "12.3-Inch, 1920x1280, IPS Touchscreen"],
+        ["Keyboard", "Backlit"], ["Security", "Windows Hello Face ID"], ["Form Factor", "Detachable 2-in-1"],
+        ["Ports", "Thunderbolt 3 (USB-C), USB Type-C, Headphone/Mic Jack"], ["Build", "Premium Aluminum Chassis"],
+        ["Operating System", "Windows Supported"]
+      ]
+    },
+    {
+      "id": "dell-latitude-7490",
+      "category": "laptops",
+      "title": "Dell Latitude 7490",
+      "subtitle": "8th Gen Core i7 · 16GB RAM · 512GB SSD · 14\" FHD",
+      "shortDesc": "Slim ultrabook engineered for demanding professionals who move fast.",
+      "brand": "Dell",
+      "sku": "DELL-LAT-7490",
+      "condition": "Premium Pre-Owned",
+      "price": 385000,
+      "originalPrice": 510000,
+      "rating": 4.5,
+      "reviewCount": 62,
+      "badges": ["Editor's Pick"],
+      "images": ["laptop-03.jpg", "laptop-04.jpg", "laptop-05.jpg", "laptop-06.jpg", "laptop-07.jpg"],
+      "tagline": "Ultra-slim performance for demanding professionals.",
+      "overview": [
+        "The Dell Latitude 7490 is engineered for professionals who move fast and expect their laptop to keep up.",
+        "Its lightweight carbon-fiber chassis pairs with an 8th Gen Intel Core i7 processor for a machine that feels effortless in the hand and relentless at work.",
+        "Whether you're managing spreadsheets, running virtual meetings or building presentations, the Latitude 7490 handles it without breaking a sweat."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "14-inch", "label": "FHD Display" },
+        { "icon": "⚙️", "value": "Core i7-8650U", "label": "Processor" },
+        { "icon": "🧠", "value": "16GB", "label": "RAM" },
+        { "icon": "💾", "value": "512GB SSD", "label": "Storage" }
+      ],
+      "features": [
+        "8th Gen Intel Core i7-8650U",
+        "16GB DDR4 RAM",
+        "512GB NVMe SSD",
+        "14-inch Full HD Anti-Glare Display",
+        "Backlit Keyboard",
+        "Fingerprint Reader",
+        "Carbon Fiber Chassis",
+        "Wi-Fi + Bluetooth",
+        "USB-C with Thunderbolt",
+        "HDMI 1.4"
+      ],
+      "sections": [
+        { "title": "Built for real productivity", "body": "The 8th Gen quad-core i7 processor gives you the headroom to run heavy business apps, browsers with dozens of tabs and video calls all at once." },
+        { "title": "Travel-ready design", "body": "At under 1.4kg with a carbon-fiber lid, the Latitude 7490 is easy to carry all day and rugged enough to trust in your bag." }
+      ],
+      "connectivity": ["Thunderbolt 3 (USB-C)", "USB 3.1 x 2", "HDMI 1.4", "microSD", "Wi-Fi", "Bluetooth"],
+      "perfectFor": ["Executives", "Consultants", "Sales Professionals", "Students", "Remote Workers"],
+      "specs": [
+        ["Model", "Dell Latitude 7490"], ["Processor", "Intel Core i7-8650U"], ["Memory", "16GB DDR4"],
+        ["Storage", "512GB NVMe SSD"], ["Display", "14-inch Full HD Anti-Glare"], ["Keyboard", "Backlit"],
+        ["Security", "Fingerprint Reader, TPM 2.0"], ["Build", "Carbon Fiber"],
+        ["Ports", "Thunderbolt 3, USB 3.1 x2, HDMI, microSD"], ["Operating System", "Windows Supported"]
+      ]
+    },
+    {
+      "id": "lenovo-thinkpad-x1-carbon-g7",
+      "category": "laptops",
+      "title": "Lenovo ThinkPad X1 Carbon Gen 7",
+      "subtitle": "8th Gen Core i7 · 16GB · 1TB SSD · 14\" WQHD",
+      "shortDesc": "Iconic ThinkPad reliability with a lightweight carbon build and premium display.",
+      "brand": "Lenovo",
+      "sku": "LEN-X1C-G7",
+      "condition": "Premium Pre-Owned",
+      "price": 465000,
+      "originalPrice": 620000,
+      "rating": 4.7,
+      "reviewCount": 89,
+      "badges": ["Premium"],
+      "images": ["laptop-05.jpg", "laptop-06.jpg", "laptop-07.jpg", "laptop-08.jpg", "laptop-09.jpg"],
+      "tagline": "The business laptop that professionals swear by.",
+      "overview": [
+        "The ThinkPad X1 Carbon Gen 7 is a masterclass in business laptops — light in your bag, uncompromising in performance.",
+        "The 14-inch WQHD display, best-in-class keyboard and industry-leading reliability make it a favorite of executives worldwide."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "14\" WQHD", "label": "Display" },
+        { "icon": "⚙️", "value": "Core i7", "label": "Processor" },
+        { "icon": "🧠", "value": "16GB", "label": "RAM" },
+        { "icon": "💾", "value": "1TB SSD", "label": "Storage" }
+      ],
+      "features": ["8th Gen Intel Core i7", "16GB LPDDR3", "1TB NVMe SSD", "14-inch WQHD IPS", "Legendary ThinkPad Keyboard", "Fingerprint Reader + IR Camera", "Carbon Fiber Chassis", "Thunderbolt 3", "Wi-Fi 6", "Rapid Charge"],
+      "sections": [
+        { "title": "A keyboard you'll actually love", "body": "ThinkPad keyboards are widely considered the best on any laptop. Deep travel, precise feedback, and the iconic TrackPoint make long typing sessions effortless." },
+        { "title": "Reliability that just doesn't quit", "body": "MIL-SPEC tested, spill-resistant and built to survive drops, temperature swings and daily travel." }
+      ],
+      "connectivity": ["Thunderbolt 3 x2", "USB 3.1 x2", "HDMI", "Wi-Fi 6", "Bluetooth 5.0"],
+      "perfectFor": ["Executives", "Developers", "Consultants", "Business Travelers"],
+      "specs": [
+        ["Model", "ThinkPad X1 Carbon Gen 7"], ["Processor", "Intel Core i7-8665U"], ["Memory", "16GB LPDDR3"],
+        ["Storage", "1TB NVMe SSD"], ["Display", "14-inch WQHD IPS"], ["Weight", "1.09 kg"],
+        ["Build", "Carbon Fiber Reinforced"], ["Battery", "Up to 18 hours"]
+      ]
+    },
+    {
+      "id": "macbook-pro-13-m1",
+      "category": "laptops",
+      "title": "Apple MacBook Pro 13\" (M1)",
+      "subtitle": "Apple M1 · 8GB · 256GB SSD · Retina Display",
+      "shortDesc": "Silent, fast and outstanding battery life — the first-generation Apple Silicon MacBook Pro.",
+      "brand": "Apple",
+      "sku": "APL-MBP13-M1",
+      "condition": "Premium Pre-Owned",
+      "price": 720000,
+      "originalPrice": 895000,
+      "rating": 4.8,
+      "reviewCount": 134,
+      "badges": ["Apple Silicon"],
+      "images": ["laptop-07.jpg", "laptop-08.jpg", "laptop-09.jpg", "laptop-10.jpg"],
+      "tagline": "Apple Silicon changed the game.",
+      "overview": [
+        "The M1 MacBook Pro delivers game-changing performance per watt, all-day battery life and near-silent operation.",
+        "Perfect for creators, developers and anyone who wants a machine that stays fast and cool under load."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "13.3\" Retina", "label": "Display" },
+        { "icon": "⚙️", "value": "Apple M1", "label": "Chip" },
+        { "icon": "🧠", "value": "8GB", "label": "Unified" },
+        { "icon": "🔋", "value": "20 hrs", "label": "Battery" }
+      ],
+      "features": ["Apple M1 8-core CPU", "8-core GPU", "8GB Unified Memory", "256GB SSD", "13.3-inch Retina Display", "Touch Bar + Touch ID", "Two Thunderbolt / USB 4 ports", "Wi-Fi 6", "Studio-quality mics", "macOS"],
+      "sections": [
+        { "title": "Battery that outlasts your day", "body": "Up to 20 hours of video playback on a single charge — genuine all-day, no-compromise usage." }
+      ],
+      "connectivity": ["Thunderbolt / USB 4 x2", "Wi-Fi 6", "Bluetooth 5.0"],
+      "perfectFor": ["Creators", "Developers", "Designers", "Students"],
+      "specs": [
+        ["Model", "MacBook Pro 13\" (M1, 2020)"], ["Chip", "Apple M1"], ["Memory", "8GB Unified"],
+        ["Storage", "256GB SSD"], ["Display", "13.3\" Retina"], ["Battery", "Up to 20 hours"], ["OS", "macOS"]
+      ]
+    },
 
+    {
+      "id": "dell-optiplex-7070-micro",
+      "category": "desktops",
+      "title": "Dell OptiPlex 7070 Micro",
+      "subtitle": "9th Gen Core i5 · 16GB · 512GB SSD · Compact",
+      "shortDesc": "A powerful mini-desktop that fits behind a monitor and handles serious work.",
+      "brand": "Dell",
+      "sku": "DELL-OPT-7070M",
+      "condition": "Premium Pre-Owned",
+      "price": 295000,
+      "originalPrice": 395000,
+      "rating": 4.4,
+      "reviewCount": 38,
+      "badges": ["Compact"],
+      "images": ["laptop-02.jpg", "laptop-04.jpg", "laptop-06.jpg"],
+      "tagline": "Full desktop power in the palm of your hand.",
+      "overview": [
+        "The Dell OptiPlex 7070 Micro packs 9th Gen Intel performance into a chassis you can mount behind any monitor.",
+        "Ideal for professional workstations, front-desk deployments, home offices and anywhere you want power without the tower."
+      ],
+      "highlights": [
+        { "icon": "⚙️", "value": "Core i5-9500T", "label": "Processor" },
+        { "icon": "🧠", "value": "16GB", "label": "RAM" },
+        { "icon": "💾", "value": "512GB SSD", "label": "Storage" },
+        { "icon": "📐", "value": "1.2L", "label": "Chassis" }
+      ],
+      "features": ["9th Gen Intel Core i5-9500T", "16GB DDR4", "512GB NVMe SSD", "Intel UHD Graphics 630", "DisplayPort + HDMI", "USB 3.1 x6", "Wi-Fi + Bluetooth", "VESA Mountable", "Whisper-quiet cooling", "Enterprise Security"],
+      "sections": [
+        { "title": "Small footprint, serious output", "body": "The Micro form factor takes up almost no space on your desk but delivers full-desktop performance for Office, development, browsers and business apps." }
+      ],
+      "connectivity": ["DisplayPort", "HDMI", "USB 3.1 x 6", "Ethernet", "Wi-Fi", "Bluetooth"],
+      "perfectFor": ["Home Offices", "Front Desks", "Small Businesses", "Developers"],
+      "specs": [
+        ["Model", "OptiPlex 7070 Micro"], ["Processor", "Intel Core i5-9500T"], ["Memory", "16GB DDR4"],
+        ["Storage", "512GB NVMe SSD"], ["Graphics", "Intel UHD 630"],
+        ["Ports", "DP, HDMI, USB 3.1 x6"], ["Chassis", "1.2L Micro"], ["OS", "Windows Supported"]
+      ]
+    },
+    {
+      "id": "hp-elitedesk-800-g5-sff",
+      "category": "desktops",
+      "title": "HP EliteDesk 800 G5 SFF",
+      "subtitle": "9th Gen Core i7 · 16GB · 1TB SSD",
+      "shortDesc": "Small form factor business desktop with room to grow.",
+      "brand": "HP",
+      "sku": "HP-ELD-800G5",
+      "condition": "Premium Pre-Owned",
+      "price": 385000,
+      "originalPrice": 495000,
+      "rating": 4.5,
+      "reviewCount": 44,
+      "badges": ["Workstation"],
+      "images": ["laptop-03.jpg", "laptop-05.jpg", "laptop-07.jpg"],
+      "tagline": "A workhorse for demanding workloads.",
+      "overview": [
+        "The HP EliteDesk 800 G5 SFF is designed for professionals who need serious desktop performance in a compact chassis.",
+        "Perfect for accounting workflows, development environments, dense multitasking and business applications that need consistent power."
+      ],
+      "highlights": [
+        { "icon": "⚙️", "value": "Core i7-9700", "label": "Processor" },
+        { "icon": "🧠", "value": "16GB", "label": "RAM" },
+        { "icon": "💾", "value": "1TB SSD", "label": "Storage" },
+        { "icon": "🎨", "value": "UHD 630", "label": "Graphics" }
+      ],
+      "features": ["9th Gen Intel Core i7-9700", "16GB DDR4 (expandable)", "1TB NVMe SSD", "Intel UHD 630", "DisplayPort x2 + HDMI", "USB 3.1 x8", "Ethernet Gigabit", "Optional Wi-Fi", "TPM 2.0", "Tool-less Access"],
+      "sections": [
+        { "title": "Grow with your business", "body": "Multiple RAM slots, drive bays and PCIe expansion mean the 800 G5 is ready when your workload grows." }
+      ],
+      "connectivity": ["DisplayPort x2", "HDMI", "USB 3.1 x8", "Gigabit Ethernet"],
+      "perfectFor": ["Accountants", "Developers", "Designers", "Small Business Offices"],
+      "specs": [
+        ["Model", "EliteDesk 800 G5 SFF"], ["Processor", "Intel Core i7-9700"], ["Memory", "16GB DDR4"],
+        ["Storage", "1TB NVMe SSD"], ["Graphics", "Intel UHD 630"], ["OS", "Windows Supported"]
+      ]
+    },
+    {
+      "id": "lenovo-thinkcentre-m720q",
+      "category": "desktops",
+      "title": "Lenovo ThinkCentre M720q Tiny",
+      "subtitle": "8th Gen Core i5 · 8GB · 256GB SSD",
+      "shortDesc": "Ultra-compact ThinkCentre with Lenovo reliability.",
+      "brand": "Lenovo",
+      "sku": "LEN-M720Q",
+      "condition": "Premium Pre-Owned",
+      "price": 235000,
+      "originalPrice": 315000,
+      "rating": 4.3,
+      "reviewCount": 29,
+      "badges": ["Budget-Friendly"],
+      "images": ["laptop-04.jpg", "laptop-06.jpg", "laptop-08.jpg"],
+      "tagline": "Reliable computing in an ultra-compact package.",
+      "overview": [
+        "The ThinkCentre M720q Tiny brings ThinkPad-level reliability to the desktop in a form factor small enough to hide anywhere.",
+        "Perfect for reception desks, digital signage, POS terminals or a clutter-free home office."
+      ],
+      "highlights": [
+        { "icon": "⚙️", "value": "Core i5-8500T", "label": "Processor" },
+        { "icon": "🧠", "value": "8GB", "label": "RAM" },
+        { "icon": "💾", "value": "256GB SSD", "label": "Storage" },
+        { "icon": "📐", "value": "1L", "label": "Chassis" }
+      ],
+      "features": ["8th Gen Intel Core i5-8500T", "8GB DDR4", "256GB NVMe SSD", "Intel UHD 630", "DisplayPort + HDMI", "USB 3.1", "Ethernet", "VESA Mount"],
+      "sections": [
+        { "title": "Tiny but mighty", "body": "The 1L chassis is small enough to hide anywhere, but powerful enough for demanding business apps." }
+      ],
+      "connectivity": ["DisplayPort", "HDMI", "USB 3.1", "Ethernet"],
+      "perfectFor": ["Reception Desks", "Digital Signage", "Home Offices", "POS"],
+      "specs": [
+        ["Model", "ThinkCentre M720q Tiny"], ["Processor", "Intel Core i5-8500T"], ["Memory", "8GB DDR4"],
+        ["Storage", "256GB NVMe SSD"], ["Chassis", "1L Tiny"], ["OS", "Windows Supported"]
+      ]
+    },
+    {
+      "id": "imac-27-2019",
+      "category": "desktops",
+      "title": "Apple iMac 27\" (2019)",
+      "subtitle": "9th Gen Core i5 · 8GB · 1TB Fusion · 5K Retina",
+      "shortDesc": "The stunning all-in-one desktop with a 5K Retina display.",
+      "brand": "Apple",
+      "sku": "APL-IMAC27-2019",
+      "condition": "Premium Pre-Owned",
+      "price": 785000,
+      "originalPrice": 985000,
+      "rating": 4.6,
+      "reviewCount": 51,
+      "badges": ["5K Retina"],
+      "images": ["laptop-08.jpg", "laptop-09.jpg", "laptop-10.jpg"],
+      "tagline": "The all-in-one desktop that professionals love.",
+      "overview": [
+        "The 27-inch iMac (2019) pairs stunning 5K Retina visuals with capable 9th Gen Intel performance.",
+        "Ideal for creators, editors, photographers and anyone who wants a beautiful desk-side workstation."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "27\" 5K Retina", "label": "Display" },
+        { "icon": "⚙️", "value": "Core i5", "label": "Processor" },
+        { "icon": "🧠", "value": "8GB", "label": "RAM" },
+        { "icon": "💾", "value": "1TB Fusion", "label": "Storage" }
+      ],
+      "features": ["9th Gen Intel Core i5", "8GB DDR4", "1TB Fusion Drive", "27-inch 5K Retina Display", "Radeon Pro 570X", "1080p FaceTime HD", "Wi-Fi + Bluetooth", "macOS"],
+      "sections": [
+        { "title": "A screen worth working on", "body": "5120 x 2880 with wide P3 color gamut — text is razor sharp and photos look extraordinary." }
+      ],
+      "connectivity": ["Thunderbolt 3 x2", "USB 3 x4", "SDXC", "Ethernet", "Wi-Fi", "Bluetooth"],
+      "perfectFor": ["Creators", "Photographers", "Editors", "Designers"],
+      "specs": [
+        ["Model", "iMac 27\" (2019)"], ["Processor", "Intel Core i5 (9th Gen)"], ["Memory", "8GB DDR4"],
+        ["Storage", "1TB Fusion Drive"], ["Graphics", "Radeon Pro 570X"], ["Display", "27\" 5K Retina"], ["OS", "macOS"]
+      ]
+    },
+
+    {
+      "id": "amazon-echo-dot-5",
+      "category": "smart-gadgets",
+      "title": "Amazon Echo Dot (5th Gen)",
+      "subtitle": "Smart Speaker with Alexa · Improved Audio",
+      "shortDesc": "The best-selling smart speaker with clearer vocals and deeper bass.",
+      "brand": "Amazon",
+      "sku": "AMZ-ECHO-DOT5",
+      "condition": "New",
+      "price": 45000,
+      "originalPrice": 62000,
+      "rating": 4.6,
+      "reviewCount": 214,
+      "badges": ["Best Seller"],
+      "images": ["laptop-01.jpg", "laptop-03.jpg", "laptop-05.jpg"],
+      "tagline": "Voice control your home. Effortlessly.",
+      "overview": [
+        "The all-new Echo Dot (5th Gen) delivers clearer vocals, deeper bass and vibrant sound in a compact package.",
+        "Ask Alexa to play music, control smart home devices, set alarms, check the weather and much more."
+      ],
+      "highlights": [
+        { "icon": "🔊", "value": "1.73\"", "label": "Front-firing" },
+        { "icon": "🎙", "value": "Far-field", "label": "Voice Pickup" },
+        { "icon": "🏠", "value": "Smart Home", "label": "Hub Built-in" },
+        { "icon": "🌡", "value": "Sensor", "label": "Temperature" }
+      ],
+      "features": ["Improved 1.73\" front-firing speaker", "Built-in temperature sensor", "Tap gesture controls", "Wi-Fi + Bluetooth", "Works with thousands of smart devices", "Privacy mic-off button", "Compact fabric design"],
+      "sections": [
+        { "title": "Your voice assistant for everything", "body": "Ask Alexa to answer questions, tell jokes, read audiobooks and control your smart home — all hands-free." }
+      ],
+      "connectivity": ["Wi-Fi", "Bluetooth", "3.5mm Aux Out"],
+      "perfectFor": ["Smart Homes", "Bedrooms", "Kitchens", "Offices"],
+      "specs": [
+        ["Model", "Echo Dot 5th Gen"], ["Speaker", "1.73\" front-firing"], ["Connectivity", "Wi-Fi, Bluetooth"],
+        ["Sensors", "Temperature"], ["Dimensions", "100 x 100 x 89 mm"]
+      ]
+    },
+    {
+      "id": "apple-watch-se-2",
+      "category": "smart-gadgets",
+      "title": "Apple Watch SE (2nd Gen)",
+      "subtitle": "40mm · GPS · Fitness & Health Tracking",
+      "shortDesc": "The essential Apple Watch experience with the features that matter most.",
+      "brand": "Apple",
+      "sku": "APL-WSE2-40",
+      "condition": "New",
+      "price": 215000,
+      "originalPrice": 265000,
+      "rating": 4.7,
+      "reviewCount": 178,
+      "badges": ["New Arrival"],
+      "images": ["laptop-02.jpg", "laptop-04.jpg", "laptop-06.jpg"],
+      "tagline": "All the essentials. Refined.",
+      "overview": [
+        "Apple Watch SE (2nd Gen) delivers the core Apple Watch experience at an accessible price.",
+        "Track your fitness, monitor your health, stay connected and get more out of every day."
+      ],
+      "highlights": [
+        { "icon": "❤️", "value": "Heart Rate", "label": "Continuous" },
+        { "icon": "🏃", "value": "GPS", "label": "Built-in" },
+        { "icon": "💧", "value": "50m", "label": "Water Resist" },
+        { "icon": "🔋", "value": "18 hrs", "label": "Battery" }
+      ],
+      "features": ["S8 SiP with 64-bit dual-core", "Always-on Retina display", "Fall + Crash detection", "Sleep tracking", "GPS", "Water resistant 50m", "watchOS 10"],
+      "sections": [
+        { "title": "Your health, on your wrist", "body": "Track workouts, monitor heart rate, measure blood oxygen and stay on top of your goals." }
+      ],
+      "connectivity": ["Wi-Fi", "Bluetooth 5.0", "GPS"],
+      "perfectFor": ["Fitness Enthusiasts", "Everyday Users", "Students", "Professionals"],
+      "specs": [
+        ["Model", "Apple Watch SE (2nd Gen)"], ["Case", "40mm Aluminum"], ["Chip", "Apple S8"],
+        ["Water Resistance", "50m"], ["Battery", "Up to 18 hours"], ["OS", "watchOS 10"]
+      ]
+    },
+    {
+      "id": "google-nest-hub-2",
+      "category": "smart-gadgets",
+      "title": "Google Nest Hub (2nd Gen)",
+      "subtitle": "7-inch Smart Display · Sleep Sensing",
+      "shortDesc": "Your helpful smart display with Google Assistant and Sleep Sensing.",
+      "brand": "Google",
+      "sku": "GGL-NHUB-2",
+      "condition": "New",
+      "price": 92000,
+      "originalPrice": 125000,
+      "rating": 4.5,
+      "reviewCount": 96,
+      "badges": ["Sleep Tracking"],
+      "images": ["laptop-04.jpg", "laptop-06.jpg", "laptop-08.jpg"],
+      "tagline": "A helpful hub for your whole home.",
+      "overview": [
+        "The Google Nest Hub (2nd Gen) is the perfect nightstand or kitchen companion with Sleep Sensing, Google Assistant and rich sound."
+      ],
+      "highlights": [
+        { "icon": "🖥", "value": "7-inch", "label": "Display" },
+        { "icon": "🎙", "value": "Assistant", "label": "Voice" },
+        { "icon": "😴", "value": "Sleep", "label": "Sensing" },
+        { "icon": "🔊", "value": "50% louder", "label": "Speaker" }
+      ],
+      "features": ["7-inch touchscreen display", "Soli motion sensing", "Sleep Sensing (contactless)", "Built-in Google Assistant", "Smart home controls", "Chromecast built-in"],
+      "sections": [
+        { "title": "The perfect nightstand companion", "body": "Sleep Sensing uses radar to track your sleep patterns without a wearable — just place it beside your bed." }
+      ],
+      "connectivity": ["Wi-Fi", "Bluetooth 5.0", "Thread ready"],
+      "perfectFor": ["Bedrooms", "Kitchens", "Smart Home Enthusiasts"],
+      "specs": [
+        ["Model", "Nest Hub 2nd Gen"], ["Display", "7-inch touchscreen"], ["Speaker", "43.5mm full range"],
+        ["Sensors", "Soli, temperature, ambient light"], ["OS", "Google Cast"]
+      ]
+    },
+    {
+      "id": "ring-video-doorbell-4",
+      "category": "smart-gadgets",
+      "title": "Ring Video Doorbell 4",
+      "subtitle": "HD Video · Motion Detection · Two-Way Talk",
+      "shortDesc": "See, hear and speak to visitors from anywhere.",
+      "brand": "Ring",
+      "sku": "RNG-VDB-4",
+      "condition": "New",
+      "price": 135000,
+      "originalPrice": 175000,
+      "rating": 4.4,
+      "reviewCount": 87,
+      "badges": ["Security"],
+      "images": ["laptop-06.jpg", "laptop-08.jpg", "laptop-10.jpg"],
+      "tagline": "Peace of mind, delivered.",
+      "overview": [
+        "Ring Video Doorbell 4 sends instant alerts to your phone when someone visits — see, hear and speak to them from anywhere."
+      ],
+      "highlights": [
+        { "icon": "📹", "value": "1080p HD", "label": "Video" },
+        { "icon": "🎯", "value": "Motion", "label": "Detection" },
+        { "icon": "🎙", "value": "Two-Way", "label": "Talk" },
+        { "icon": "🔋", "value": "Battery", "label": "Powered" }
+      ],
+      "features": ["1080p HD video", "Advanced motion detection", "Two-way talk with noise cancellation", "Color pre-roll", "Removable rechargeable battery", "Works with Alexa"],
+      "sections": [
+        { "title": "See who's there — from anywhere", "body": "Instant mobile alerts and live video means you always know who's at your door, whether you're home or not." }
+      ],
+      "connectivity": ["Wi-Fi", "Bluetooth"],
+      "perfectFor": ["Homes", "Small Offices", "Rentals"],
+      "specs": [
+        ["Model", "Ring Video Doorbell 4"], ["Video", "1080p HD"], ["Field of View", "160°"],
+        ["Power", "Removable battery or hardwired"], ["Weather", "-20°C to 48°C"]
+      ]
+    },
+
+    {
+      "id": "logitech-mx-master-3s",
+      "category": "accessories",
+      "title": "Logitech MX Master 3S",
+      "subtitle": "Wireless Performance Mouse · 8K DPI · Silent Clicks",
+      "shortDesc": "The mouse that professionals trust — refined with quieter clicks and higher tracking.",
+      "brand": "Logitech",
+      "sku": "LOG-MXM3S",
+      "condition": "New",
+      "price": 68000,
+      "originalPrice": 89000,
+      "rating": 4.8,
+      "reviewCount": 312,
+      "badges": ["Editor's Pick"],
+      "images": ["laptop-01.jpg", "laptop-03.jpg", "laptop-05.jpg"],
+      "tagline": "The mouse that redefined productivity.",
+      "overview": [
+        "The MX Master 3S combines a legendary MagSpeed scroll wheel with quieter clicks, 8K DPI tracking and a shape designed for all-day comfort.",
+        "Multi-device pairing, USB-C fast charging and Logi Flow across computers make it the ultimate productivity mouse."
+      ],
+      "highlights": [
+        { "icon": "🎯", "value": "8000 DPI", "label": "Tracking" },
+        { "icon": "🔇", "value": "90% Quieter", "label": "Clicks" },
+        { "icon": "⚡", "value": "USB-C", "label": "Fast Charge" },
+        { "icon": "🔋", "value": "70 days", "label": "Battery" }
+      ],
+      "features": ["8000 DPI Darkfield sensor", "Quiet Clicks (90% quieter)", "MagSpeed electromagnetic scrolling", "Thumbwheel + gesture button", "Multi-device pairing (3 devices)", "USB-C fast charging", "Logi Options+ software"],
+      "sections": [
+        { "title": "Scroll through documents at speed", "body": "MagSpeed lets you scroll 1000 lines per second, then switch to precise ratchet mode for detailed work." }
+      ],
+      "connectivity": ["Bluetooth LE", "Logi Bolt USB Receiver", "USB-C"],
+      "perfectFor": ["Developers", "Designers", "Editors", "Power Users"],
+      "specs": [
+        ["Model", "MX Master 3S"], ["DPI", "200 - 8000"], ["Battery", "Up to 70 days"],
+        ["Charging", "USB-C"], ["Buttons", "7"], ["Weight", "141g"]
+      ]
+    },
+    {
+      "id": "apple-airpods-pro-2",
+      "category": "accessories",
+      "title": "Apple AirPods Pro (2nd Gen)",
+      "subtitle": "Active Noise Cancellation · Adaptive Audio · MagSafe",
+      "shortDesc": "The AirPods experience, dramatically improved.",
+      "brand": "Apple",
+      "sku": "APL-APP2",
+      "condition": "New",
+      "price": 245000,
+      "originalPrice": 295000,
+      "rating": 4.7,
+      "reviewCount": 245,
+      "badges": ["Best Seller"],
+      "images": ["laptop-02.jpg", "laptop-04.jpg", "laptop-06.jpg"],
+      "tagline": "Sound. Refined.",
+      "overview": [
+        "AirPods Pro (2nd Gen) deliver next-level Active Noise Cancellation, Adaptive Audio that tunes to your environment, and Personalized Spatial Audio."
+      ],
+      "highlights": [
+        { "icon": "🔇", "value": "2x", "label": "More ANC" },
+        { "icon": "🎧", "value": "Spatial", "label": "Audio" },
+        { "icon": "🔋", "value": "30 hrs", "label": "Total Battery" },
+        { "icon": "💧", "value": "IP54", "label": "Rated" }
+      ],
+      "features": ["H2 chip", "Active Noise Cancellation", "Adaptive Audio + Conversation Awareness", "Personalized Spatial Audio", "MagSafe Charging Case", "Touch controls", "IP54 dust/sweat/water resistant"],
+      "sections": [
+        { "title": "Noise cancellation that just gets it right", "body": "The H2 chip provides up to 2x more Active Noise Cancellation than the previous generation." }
+      ],
+      "connectivity": ["Bluetooth 5.3", "Lightning / USB-C", "MagSafe / Qi wireless"],
+      "perfectFor": ["Commuters", "Music Lovers", "Fitness", "iPhone Users"],
+      "specs": [
+        ["Model", "AirPods Pro (2nd Gen)"], ["Chip", "Apple H2"], ["Battery", "6h + 24h case"],
+        ["Water Resistance", "IP54"], ["Charging", "MagSafe, Qi, Lightning"]
+      ]
+    },
+    {
+      "id": "anker-737-power-bank",
+      "category": "accessories",
+      "title": "Anker 737 Power Bank (PowerCore 24K)",
+      "subtitle": "24,000mAh · 140W · Smart Digital Display",
+      "shortDesc": "Charge a MacBook Pro at full speed, from anywhere.",
+      "brand": "Anker",
+      "sku": "ANK-737",
+      "condition": "New",
+      "price": 89000,
+      "originalPrice": 118000,
+      "rating": 4.6,
+      "reviewCount": 156,
+      "badges": ["High Capacity"],
+      "images": ["laptop-04.jpg", "laptop-06.jpg", "laptop-08.jpg"],
+      "tagline": "The world's most capable power bank.",
+      "overview": [
+        "24,000mAh of capacity with 140W of USB-C output — enough to fast-charge a 16-inch MacBook Pro or any USB-C laptop."
+      ],
+      "highlights": [
+        { "icon": "🔋", "value": "24,000mAh", "label": "Capacity" },
+        { "icon": "⚡", "value": "140W", "label": "Output" },
+        { "icon": "📱", "value": "3 Ports", "label": "USB-C x2, USB-A" },
+        { "icon": "📺", "value": "Smart Display", "label": "Info" }
+      ],
+      "features": ["24,000mAh capacity", "140W max USB-C output", "Two USB-C, one USB-A", "Smart digital display", "Fast-charges MacBook Pro 16\"", "Recharges in ~1 hour", "TSA-approved for flights"],
+      "sections": [
+        { "title": "One power bank for every device", "body": "From iPhones to full MacBooks, the 737 charges everything at full speed with plenty left in the tank." }
+      ],
+      "connectivity": ["USB-C x2", "USB-A"],
+      "perfectFor": ["Travelers", "Digital Nomads", "Field Workers", "Power Users"],
+      "specs": [
+        ["Model", "Anker 737 (PowerCore 24K)"], ["Capacity", "24,000mAh / 86.4Wh"],
+        ["Output", "140W max"], ["Ports", "USB-C x2, USB-A x1"], ["Weight", "630g"]
+      ]
+    },
+    {
+      "id": "samsung-t7-shield-1tb",
+      "category": "accessories",
+      "title": "Samsung T7 Shield 1TB",
+      "subtitle": "Portable SSD · USB 3.2 Gen 2 · Rugged",
+      "shortDesc": "Rugged portable SSD with blazing transfer speeds.",
+      "brand": "Samsung",
+      "sku": "SAM-T7S-1TB",
+      "condition": "New",
+      "price": 78000,
+      "originalPrice": 98000,
+      "rating": 4.7,
+      "reviewCount": 189,
+      "badges": ["Rugged"],
+      "images": ["laptop-06.jpg", "laptop-08.jpg", "laptop-10.jpg"],
+      "tagline": "Fast. Rugged. Ready anywhere.",
+      "overview": [
+        "The Samsung T7 Shield delivers up to 1,050 MB/s read speeds in a rugged rubberized shell rated for 3-meter drops."
+      ],
+      "highlights": [
+        { "icon": "⚡", "value": "1,050 MB/s", "label": "Read Speed" },
+        { "icon": "🛡", "value": "3m Drop", "label": "Rated" },
+        { "icon": "💧", "value": "IP65", "label": "Rated" },
+        { "icon": "💾", "value": "1TB", "label": "Capacity" }
+      ],
+      "features": ["Up to 1,050 MB/s read / 1,000 MB/s write", "IP65 dust/water resistant", "3-meter drop resistant", "Hardware AES 256-bit encryption", "USB 3.2 Gen 2 (10 Gbps)", "Compatible with Mac, PC, Android, iPad Pro"],
+      "sections": [
+        { "title": "Built for creators on the move", "body": "Rugged enough to survive a shoot in the field, fast enough to edit 4K video directly off the drive." }
+      ],
+      "connectivity": ["USB-C 3.2 Gen 2"],
+      "perfectFor": ["Video Editors", "Photographers", "Content Creators", "Field Workers"],
+      "specs": [
+        ["Model", "Samsung T7 Shield"], ["Capacity", "1TB"], ["Interface", "USB 3.2 Gen 2"],
+        ["Speeds", "1,050 / 1,000 MB/s"], ["Rating", "IP65, 3m drop"]
+      ]
+    },
+
+    {
+      "id": "samsung-980-pro-1tb",
+      "category": "components",
+      "title": "Samsung 980 PRO 1TB NVMe SSD",
+      "subtitle": "PCIe 4.0 · 7,000 MB/s Read · M.2 2280",
+      "shortDesc": "Blazing PCIe 4.0 NVMe storage for pro workloads and gaming.",
+      "brand": "Samsung",
+      "sku": "SAM-980PRO-1T",
+      "condition": "New",
+      "price": 115000,
+      "originalPrice": 148000,
+      "rating": 4.8,
+      "reviewCount": 421,
+      "badges": ["PCIe 4.0"],
+      "images": ["laptop-01.jpg", "laptop-03.jpg", "laptop-05.jpg"],
+      "tagline": "PCIe 4.0 storage, unleashed.",
+      "overview": [
+        "The Samsung 980 PRO delivers PCIe 4.0 speeds up to 7,000 MB/s — perfect for gaming, 4K/8K video editing and heavy-duty pro workloads."
+      ],
+      "highlights": [
+        { "icon": "⚡", "value": "7,000 MB/s", "label": "Read" },
+        { "icon": "✍️", "value": "5,000 MB/s", "label": "Write" },
+        { "icon": "💾", "value": "1TB", "label": "Capacity" },
+        { "icon": "🔒", "value": "AES 256", "label": "Encryption" }
+      ],
+      "features": ["Samsung Elpis controller", "V-NAND 3-bit MLC", "PCIe 4.0 x4, NVMe 1.3c", "Nickel-coated for heat control", "Samsung Magician software", "5-year limited warranty"],
+      "sections": [
+        { "title": "Game and create at PCIe 4.0 speed", "body": "Cut load times in half, edit 8K footage directly off the drive, or compile massive codebases in seconds." }
+      ],
+      "connectivity": ["M.2 2280 PCIe 4.0 x4"],
+      "perfectFor": ["Gamers", "Video Editors", "Developers", "Enthusiasts"],
+      "specs": [
+        ["Model", "Samsung 980 PRO"], ["Capacity", "1TB"], ["Form Factor", "M.2 2280"],
+        ["Interface", "PCIe 4.0 x4, NVMe 1.3c"], ["Read", "7,000 MB/s"], ["Write", "5,000 MB/s"],
+        ["Endurance", "600 TBW"], ["Warranty", "5 years"]
+      ]
+    },
+    {
+      "id": "corsair-vengeance-32gb-ddr4",
+      "category": "components",
+      "title": "Corsair Vengeance LPX 32GB DDR4-3200",
+      "subtitle": "2 x 16GB · Low-Profile · Intel XMP 2.0",
+      "shortDesc": "Reliable, low-profile DDR4 with proven Corsair performance.",
+      "brand": "Corsair",
+      "sku": "COR-VLPX-32-3200",
+      "condition": "New",
+      "price": 95000,
+      "originalPrice": 125000,
+      "rating": 4.7,
+      "reviewCount": 289,
+      "badges": ["XMP 2.0"],
+      "images": ["laptop-03.jpg", "laptop-05.jpg", "laptop-07.jpg"],
+      "tagline": "High-performance memory, refined.",
+      "overview": [
+        "Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 memory delivers rock-solid performance for gaming, productivity and content creation."
+      ],
+      "highlights": [
+        { "icon": "🧠", "value": "32GB", "label": "Total (2x16)" },
+        { "icon": "⚡", "value": "3200 MHz", "label": "Speed" },
+        { "icon": "⏱", "value": "CL16", "label": "Latency" },
+        { "icon": "🔥", "value": "Low Profile", "label": "Heatspreader" }
+      ],
+      "features": ["2 x 16GB DDR4 Modules", "3200 MHz speed", "CL16 latency", "1.35V operating voltage", "Anodized aluminum heat spreader", "Intel XMP 2.0 support", "Lifetime warranty"],
+      "sections": [
+        { "title": "Serious multitasking headroom", "body": "32GB of memory means you can run demanding games, virtual machines and multiple browsers without slowing down." }
+      ],
+      "connectivity": ["DIMM DDR4"],
+      "perfectFor": ["Gamers", "Content Creators", "Developers", "Workstations"],
+      "specs": [
+        ["Model", "Corsair Vengeance LPX"], ["Capacity", "32GB (2 x 16GB)"], ["Speed", "3200 MHz"],
+        ["Latency", "CL16"], ["Voltage", "1.35V"], ["Type", "DDR4 DIMM"], ["Warranty", "Lifetime"]
+      ]
+    },
+    {
+      "id": "nvidia-rtx-4070",
+      "category": "components",
+      "title": "NVIDIA GeForce RTX 4070",
+      "subtitle": "12GB GDDR6X · Ada Lovelace · DLSS 3",
+      "shortDesc": "Serious 1440p gaming and creation with DLSS 3 and ray tracing.",
+      "brand": "NVIDIA",
+      "sku": "NV-RTX4070",
+      "condition": "New",
+      "price": 685000,
+      "originalPrice": 795000,
+      "rating": 4.7,
+      "reviewCount": 168,
+      "badges": ["RTX", "DLSS 3"],
+      "images": ["laptop-05.jpg", "laptop-07.jpg", "laptop-09.jpg"],
+      "tagline": "The GPU built for the era of AI.",
+      "overview": [
+        "The GeForce RTX 4070 delivers superb 1440p gaming performance with the power of NVIDIA's Ada Lovelace architecture, DLSS 3 and ray tracing."
+      ],
+      "highlights": [
+        { "icon": "🎮", "value": "12GB", "label": "GDDR6X" },
+        { "icon": "⚡", "value": "5888", "label": "CUDA Cores" },
+        { "icon": "✨", "value": "DLSS 3", "label": "Frame Gen" },
+        { "icon": "💡", "value": "Ray Tracing", "label": "3rd Gen" }
+      ],
+      "features": ["Ada Lovelace architecture", "12GB GDDR6X memory", "5888 CUDA cores", "DLSS 3 with Frame Generation", "3rd-gen Ray Tracing cores", "4th-gen Tensor cores", "AV1 encoding"],
+      "sections": [
+        { "title": "1440p gaming, done right", "body": "The RTX 4070 delivers over 100 FPS in modern AAA games at 1440p with ray tracing enabled." }
+      ],
+      "connectivity": ["PCIe 4.0 x16", "HDMI 2.1", "DisplayPort 1.4a x3"],
+      "perfectFor": ["Gamers", "3D Artists", "AI/ML Enthusiasts", "Video Editors"],
+      "specs": [
+        ["Model", "GeForce RTX 4070"], ["Memory", "12GB GDDR6X"], ["Cores", "5888 CUDA"],
+        ["Interface", "PCIe 4.0 x16"], ["Outputs", "HDMI 2.1, DP 1.4a x3"], ["TDP", "200W"]
+      ]
+    },
+    {
+      "id": "amd-ryzen-7-7700x",
+      "category": "components",
+      "title": "AMD Ryzen 7 7700X",
+      "subtitle": "8 Cores · 16 Threads · 5.4GHz Boost · AM5",
+      "shortDesc": "8-core Zen 4 powerhouse for gaming and productivity.",
+      "brand": "AMD",
+      "sku": "AMD-R7-7700X",
+      "condition": "New",
+      "price": 285000,
+      "originalPrice": 345000,
+      "rating": 4.8,
+      "reviewCount": 234,
+      "badges": ["Zen 4"],
+      "images": ["laptop-07.jpg", "laptop-09.jpg", "laptop-10.jpg"],
+      "tagline": "Zen 4 for the mainstream builder.",
+      "overview": [
+        "The Ryzen 7 7700X is AMD's mainstream Zen 4 champion — 8 cores, 16 threads and a 5.4GHz boost clock deliver top-tier gaming and content-creation performance."
+      ],
+      "highlights": [
+        { "icon": "⚙️", "value": "8 / 16", "label": "Cores / Threads" },
+        { "icon": "⚡", "value": "5.4 GHz", "label": "Boost" },
+        { "icon": "🔥", "value": "105W", "label": "TDP" },
+        { "icon": "🧩", "value": "AM5", "label": "Socket" }
+      ],
+      "features": ["8 cores, 16 threads (Zen 4)", "5.4 GHz max boost", "40MB total cache", "AM5 socket, DDR5 support", "PCIe 5.0 support", "Integrated Radeon Graphics"],
+      "sections": [
+        { "title": "Zen 4 changes the game", "body": "5nm process node, DDR5 memory support and PCIe 5.0 make the 7700X a future-ready foundation for your build." }
+      ],
+      "connectivity": ["Socket AM5", "PCIe 5.0", "DDR5"],
+      "perfectFor": ["Gamers", "Streamers", "Content Creators", "Developers"],
+      "specs": [
+        ["Model", "Ryzen 7 7700X"], ["Cores", "8"], ["Threads", "16"],
+        ["Base Clock", "4.5 GHz"], ["Boost Clock", "5.4 GHz"], ["Cache", "40MB"],
+        ["Socket", "AM5"], ["TDP", "105W"]
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Will my order be delivered to my doorstep?", "a": "Yes, your order will be delivered directly to your doorstep anywhere in Nigeria. In areas where our dispatch riders cannot reach the exact address, you'll be contacted to pick it up at the nearest designated pickup location."},
+    {"q": "How do I pay for my order?", "a": "Payment is processed securely through Paystack. You can pay using your debit card, bank transfer, USSD, or bank account directly from the checkout popup."},
+    {"q": "When will my order be shipped?", "a": "Once payment is confirmed, your order is processed and dispatched within 24 hours."},
+    {"q": "How long does delivery take?", "a": "Lagos State: 24 to 48 hours. Other states in Nigeria: 3 to 7 business days."},
+    {"q": "Does the product come with a warranty?", "a": "Yes, every unit comes with a 30-day warranty covering functionality and hardware issues that are not caused by physical damage or misuse."},
+    {"q": "Is the item new or used?", "a": "Products are clearly marked as either New or Premium Pre-Owned. Pre-Owned units are professionally tested, fully functional, and in excellent working condition."},
+    {"q": "Can I return the item if I change my mind?", "a": "We do not accept returns for change of mind. However, if the item arrives with a functional issue covered by the 30-day warranty, contact us immediately and we'll resolve it."},
+    {"q": "How do I contact you if I have more questions?", "a": "Tap the floating WhatsApp button on any page or use the contact form to reach us directly."}
+  ],
+  "site": {
+    "name": "New Store",
+    "tagline": "Premium tech. Honest prices. Delivered across Nigeria.",
+    "phone": "+2349059639220",
+    "waPhone": "2349059639220",
+    "email": "hello@newstore.ng",
+    "paystackKey": "pk_live_a7cdd5d5e8c1fb27e2742b9ac427363de089633c",
+    "web3formsKey": "00a3b112-65a8-41b9-b23b-a5e9e9c8baab"
+  }
+}
